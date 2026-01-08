@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "695fddaadf01590e5171f129"
+  },
+  "product_id": "ELEC002",
+  "name": "Apple MacBook Pro 14-inch",
+  "category": "Electronics",
+  "price": 189999,
+  "avgRating": 5
+},
+{
+  "_id": {
+    "$oid": "695fddaadf01590e5171f128"
+  },
+  "product_id": "ELEC001",
+  "name": "Samsung Galaxy S21 Ultra",
+  "category": "Electronics",
+  "price": 79999,
+  "avgRating": 4.666666666666667
+},
+{
+  "_id": {
+    "$oid": "695fddaadf01590e5171f12a"
+  },
+  "product_id": "ELEC003",
+  "name": "Sony WH-1000XM5 Headphones",
+  "category": "Electronics",
+  "price": 29990,
+  "avgRating": 4.666666666666667
+},
+{
+  "_id": {
+    "$oid": "695fddaadf01590e5171f12e"
+  },
+  "product_id": "FASH001",
+  "name": "Levi's 511 Slim Fit Jeans",
+  "category": "Fashion",
+  "price": 3499,
+  "avgRating": 4.666666666666667
+},
+{
+  "_id": {
+    "$oid": "695fddaadf01590e5171f12d"
+  },
+  "product_id": "ELEC006",
+  "name": "Samsung 55-inch QLED TV",
+  "category": "Electronics",
+  "price": 64999,
+  "avgRating": 4.5
+},
+{
+  "_id": {
+    "$oid": "695fddaadf01590e5171f12f"
+  },
+  "product_id": "FASH002",
+  "name": "Nike Air Max 270 Sneakers",
+  "category": "Fashion",
+  "price": 12995,
+  "avgRating": 4.5
+},
+{
+  "_id": {
+    "$oid": "695fddaadf01590e5171f131"
+  },
+  "product_id": "FASH004",
+  "name": "Puma RS-X Sneakers",
+  "category": "Fashion",
+  "price": 8999,
+  "avgRating": 4.5
+},
+{
+  "_id": {
+    "$oid": "695fddaadf01590e5171f133"
+  },
+  "product_id": "FASH006",
+  "name": "Reebok Training Trackpants",
+  "category": "Fashion",
+  "price": 2299,
+  "avgRating": 4.5
+},
+{
+  "_id": {
+    "$oid": "695fddaadf01590e5171f130"
+  },
+  "product_id": "FASH003",
+  "name": "Adidas Originals T-Shirt",
+  "category": "Fashion",
+  "price": 1499,
+  "avgRating": 4.333333333333333
+},
+{
+  "_id": {
+    "$oid": "695fddaadf01590e5171f12b"
+  },
+  "product_id": "ELEC004",
+  "name": "Dell 27-inch 4K Monitor",
+  "category": "Electronics",
+  "price": 32999,
+  "avgRating": 4
+},
+{
+  "_id": {
+    "$oid": "695fddaadf01590e5171f12c"
+  },
+  "product_id": "ELEC005",
+  "name": "OnePlus Nord CE 3",
+  "category": "Electronics",
+  "price": 26999,
+  "avgRating": 4
+}]

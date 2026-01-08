@@ -1,0 +1,42 @@
+======================================================================
+DATA QUALITY REPORT - FLEXIMART ETL PIPELINE
+======================================================================
+Report Generated: 2026-01-07 18:18:49
+
+----------------------------------------------------------------------
+CUSTOMERS DATA
+----------------------------------------------------------------------
+Records processed:              26
+Duplicates removed:             1
+Missing emails handled:         5
+Records loaded successfully:    20
+
+----------------------------------------------------------------------
+PRODUCTS DATA
+----------------------------------------------------------------------
+Records processed:              20
+Duplicates removed:             0
+Missing prices handled:         3
+Missing stock values handled:   1
+Records loaded successfully:    17
+
+----------------------------------------------------------------------
+SALES/ORDERS DATA
+----------------------------------------------------------------------
+Records processed:              41
+Duplicates removed:             1
+Missing customer IDs handled:   3
+Missing product IDs handled:    2
+Missing dates handled:          0
+Orders filtered (invalid refs): 8
+Order items filtered (invalid): 10
+Orders loaded successfully:     27
+Order items loaded successfully: 25
+
+======================================================================
+SUMMARY
+======================================================================
+Total records processed:        87
+Total records loaded to DB:     89
+Data quality issues resolved:   28
+======================================================================
