@@ -16,19 +16,19 @@ I have created a full data engineering project for fleximart. I built:
 
 ## Repository Structure
 ├── part1-database-etl/
-│   ├── etl_pipeline.py
-│   ├── schema_documentation.md
-│   ├── business_queries.sql
-│   └── data_quality_report.txt
+│     ├── etl_pipeline.py
+│     ├── schema_documentation.md
+│     ├── business_queries.sql
+│     └── data_quality_report.txt
 ├── part2-nosql/
-│   ├── nosql_analysis.md
-│   ├── mongodb_operations.js
-│   └── products_catalog.json
+│     ├── nosql_analysis.md
+│     ├── mongodb_operations.js
+│     └── products_catalog.json
 ├── part3-datawarehouse/
-│   ├── star_schema_design.md
-│   ├── warehouse_schema.sql
-│   ├── warehouse_data.sql
-│   └── analytics_queries.sql
+│     ├── star_schema_design.md
+│     ├── warehouse_schema.sql
+│     ├── warehouse_data.sql
+│     └── analytics_queries.sql
 └── README.md
 
 ## Technologies Used
